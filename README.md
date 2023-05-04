@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @MoveidNaqvi
 - 👀 I’m interested in mobile and web development
-- 🏫 Currently learning React Native
+- 💼 Experience with Javascript, React, React Native
+- 🏫 Currently learning Nextjs
 - 🔗 Checkout my anime website at https://www.miruanime.co.uk/
 <!---
 MoveidNaqvi/MoveidNaqvi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
