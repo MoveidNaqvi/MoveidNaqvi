@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MoveidNaqvi
 - 👀 I’m interested in mobile and web development
-- 💼 Experience with Javascript, React, React Native
+- 💼 Experience with JavaScript, React and React Native
 - 🏫 Currently learning Nextjs
 - 🔗 Checkout my anime website at https://www.miruanime.co.uk/
 <!---
